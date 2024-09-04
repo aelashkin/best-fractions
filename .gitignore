@@ -1,0 +1,8 @@
+# Ignore the .vscode folder (VS Code settings)
+.vscode/
+
+# Ignore .dSYM directories (debugging symbols, generated on macOS)
+*.dSYM/
+
+# Ignore compiled executable files
+best_fractions
